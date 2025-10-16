@@ -17,6 +17,7 @@ The test_ticket_maker.py file holds code to try some of the functions of ticket_
 <img width="786" height="492" alt="image" src="https://github.com/user-attachments/assets/91a2da82-cbfa-4e6f-acb6-442720a50987" />
 <img width="570" height="316" alt="image" src="https://github.com/user-attachments/assets/9d445f5d-11b5-4659-82d3-227193bdd7f5" />
 
-
+## Enhancements to the Code 
+You are welcome to enhance the code or to add functionality and share that to improve the project. It is a very simple program and there are a lot of things add or change. 
 
 
