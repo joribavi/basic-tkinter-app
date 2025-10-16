@@ -2,7 +2,7 @@
 Basic App created with the built in python GUI. Part of the course CSE111 taken at BYUPathway Worldwide 
 
 ## Description
-Application to print a purchase ticket in Txt format. 
+Application to print a purchase ticket in Txt format. In order to try it , download the CSV files. Enter the Client ID, verify if that is already an existing client and after that enter a product of the list found in the CSV file and calculate the Purchase Total . This will be printed into a txt file. Click the reset button to clear all entries and delete the information found in the txt file already created 
 
 ## Requisites
 - Python 3.8+
